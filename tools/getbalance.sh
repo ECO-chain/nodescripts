@@ -1,5 +1,5 @@
 #! /bin/bash
-source ./path.conf
+source .path.conf
 
 echo "getting ECO balance from the node"
 

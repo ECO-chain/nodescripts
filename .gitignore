@@ -1,3 +1,6 @@
 *~
-node/chain/ecoctestnet/
-tools/path.conf
+node/chain/*
+tools/.path.conf
+node/node.conf
+ecoc-cli
+ecocd

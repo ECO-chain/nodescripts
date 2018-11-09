@@ -1,5 +1,5 @@
 #! /bin/bash
-source ./path.conf
+source .path.conf
 
 blocks=$1
 if [ "$#" -ne 1 ]; then
